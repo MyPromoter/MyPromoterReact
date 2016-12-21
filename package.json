@@ -1,0 +1,37 @@
+{
+  "name": "mypromoterreact",
+  "version": "1.0.0",
+  "description": "An Upscale Connection Between Consumers & Nightlife",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyPromoter/MyPromoterReact.git"
+  },
+  "author": "Neil Deep Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyPromoter/MyPromoterReact/issues"
+  },
+  "homepage": "https://github.com/MyPromoter/MyPromoterReact#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.2.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "engines": {
+    "node": "5.5.0"
+  }
+}
