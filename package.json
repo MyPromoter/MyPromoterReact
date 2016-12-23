@@ -18,9 +18,11 @@
   "homepage": "https://github.com/MyPromoter/MyPromoterReact#readme",
   "dependencies": {
     "express": "^4.13.4",
+    "history": "^1.17.0",
     "lodash": "^4.2.1",
     "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react-dom": "^0.14.7",
+    "react-router": "^3.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.4.5",

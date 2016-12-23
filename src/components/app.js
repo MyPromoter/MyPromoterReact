@@ -1,10 +1,15 @@
 import React from 'react';
 
 export default class App extends React.Component {
+
+  clicked() {
+    alert('clicked!');
+  }
+
   render() {
     return (
       <div>
-        <h1>MyPromoter</h1>
+        <img src="../../assets/MyPromoter.png" onClick={ this.clicked }/>
       </div>
     );
   }
